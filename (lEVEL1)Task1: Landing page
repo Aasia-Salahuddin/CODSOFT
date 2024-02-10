@@ -193,9 +193,9 @@ HTML FILE: index.html
           >
           <span class="message"> Dear valued customers,<br>
             Get ready to be swept up in a melody of flavors as you explore the exquisite 
-            selection of handcrafted delights at <span class="shop_name"><b>"Evan's Bake Shop"</b></span>. 
+            selection of handcrafted delights at <span class="shop_name"><b>"EVAN's Shop"</b></span>. 
             We are absolutely thrilled to have you walk through our bakery doors. 
-            At <span class="shop_name"><b>"Evan's Bake Shop"</b></span>, we believe that life is sweeter when shared,
+            At <span class="shop_name"><b>"EVAN's Shop"</b></span>, we believe that life is sweeter when shared,
             and we're here to create sweet moments that you'll treasure. Dive into a symphony 
             of tastes as you discover our collection of artisanal treasures. 
             Each bite promises to be a captivating experience in itself, tailored to suit every 
@@ -236,7 +236,7 @@ HTML FILE: index.html
             class="text-start d-flex d-xl-flex align-items-xl-center"
             style="color: var(--bs-danger-text-emphasis); font-size: 18px"
           >
-            Mom &amp; Pop's Bakery, est. 2010, is a cozy nook of sweetness
+            EVAN's Bakery, est. 2010, is a cozy nook of sweetness
             nestled in the heart of Kolkata. We're a family-owned venture, with
             Grandma's secret apple pie recipe as our guiding star.<br /><br />Every
             morning, our team of bakers hand-selects the ripest fruits and the
